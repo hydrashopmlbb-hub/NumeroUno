@@ -1,0 +1,5 @@
+.env
+orders.db
+orders.db-journal
+__pycache__/
+*.pyc
